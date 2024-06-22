@@ -8,7 +8,7 @@ Kalian diminta untuk membuat sebuah class `Robot` dalam C++ dengan atribut dan m
 - Fungsi `getCount` akan mereturn jumlah robot aktif.
 
 # Cara Compile
-...
+``` 
 # Untuk build / compile
 gcc -o main main.cpp
 
