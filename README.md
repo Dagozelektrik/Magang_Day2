@@ -8,7 +8,7 @@ Kalian diminta untuk membuat sebuah class `Robot` dalam C++ dengan atribut dan m
 - Gunakan metode destruktor untuk tracking jumlah robot yang aktif.
 - Fungsi `getCount` akan mereturn jumlah robot aktif.
 
-## Cara Ngerjain
+## Cara Ngerjain (Ribet, tapi rapih)
 ### 1. Clone Repo:
 ```
 git clone https://github.com/goldwinsonick/tubes-pmc-2024.git
@@ -27,7 +27,9 @@ git push origin <nama-branch>
 ## Cara Ngerjain (Alternatif, lebih gampang)
 ### 1. Copy template di main.cpp ke teks editor (VsCode atau yang lainnya)
 ### 2. Copy hasil perubahan ke file main.cpp di repo remote
+![image](https://github.com/Dagozelektrik/Magang_Day2/assets/145430162/9b76ffd4-13f2-4bb8-8901-5bae201b0fac)
 ### 3. Commit Changes (msg bebas)
+![image](https://github.com/Dagozelektrik/Magang_Day2/assets/145430162/9b0451fc-49c8-4a78-ba4e-f90e70610d4e)
 ## Cara Compile
 ``` 
 # Untuk build / compile
