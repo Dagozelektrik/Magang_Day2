@@ -27,8 +27,7 @@ git push origin <nama-branch>
 ## Cara Ngerjain (Alternatif, lebih gampang)
 ### 1. Copy template di main.cpp ke teks editor (VsCode atau yang lainnya)
 ### 2. Copy hasil perubahan ke file main.cpp di repo
-### 3. Commit
-Commit dengan msg bebas
+### 3. Commit Changes (msg bebas)
 ## Cara Compile
 ``` 
 # Untuk build / compile
