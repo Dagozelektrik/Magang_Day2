@@ -7,6 +7,15 @@ Kalian diminta untuk membuat sebuah class `Robot` dalam C++ dengan atribut dan m
 - Gunakan metode destruktor untuk tracking jumlah robot yang aktif.
 - Fungsi `getCount` akan mereturn jumlah robot aktif.
 
+# Cara Compile
+...
+# Untuk build / compile
+gcc -o main main.cpp
+
+# Untuk run
+./main
+
+```      
 # Sumber Belajar
 - [PPT Magang Day 2](https://www.canva.com/design/DAGE2HPX32g/5PpVyz0tu0N4T4ek3Zeogg/edit)
 - [Cheat Sheet](https://dranolia.medium.com/c-cheatsheet-01a308f702bd)
